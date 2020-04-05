@@ -20,6 +20,9 @@ from scipy.stats import kurtosis,skew,norm
 import pandas as pd
 import csv
 import yfinance as yf
+import time
+
+#lets try this changes for 
 
 
 # OPTIMAL WEIGHTS
